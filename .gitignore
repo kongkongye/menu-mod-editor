@@ -1,0 +1,10 @@
+.idea
+*.iml
+*.class
+out
+target
+node_modules
+logs
+classes
+debug.log
+MANIFEST.MF
