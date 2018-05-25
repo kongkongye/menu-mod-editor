@@ -94,7 +94,7 @@ window.Menu = (function () {
         if (node.nodeType === 1) {//元素结点
             //设置xmlns属性
             if (node.nodeName === 'menu') {
-                node.setAttribute("xmlns", "http://xsd.kongkongye.com/menu.xsd");
+                node.setAttribute("xmlns", "http://xsd.kongkongye.com/MenuMod-1.0.0.xsd");
             }
 
             //删除这个奇怪的多余属性
