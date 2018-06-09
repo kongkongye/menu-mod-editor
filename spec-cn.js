@@ -256,6 +256,12 @@ window.docSpec = (function () {
               {caption: '在周围留空( o o o )', value: 'spaceAround'},
             ],
           },
+          'separate': {
+            displayName: '行分隔',
+            menu: attrMenus('true时会与前面隔一行,默认false(如果是第一行或前面已经有空行则无效果)'),
+            asker: Xonomy.askPicklist,
+            askerParameter: boolParameters,
+          },
         },
         menu: [
           {
@@ -268,6 +274,7 @@ window.docSpec = (function () {
               addAttr('所属子菜单', 'sub', ''),
               addAttr('对齐方式', 'align', 'left'),
               addAttr('居中对齐类型', 'alignCenterType', 'spaceBoth'),
+              addAttr('行分隔', 'separate', 'false'),
             ]
           },
           {
