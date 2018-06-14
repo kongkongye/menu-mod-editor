@@ -246,7 +246,7 @@ window.docSpec = (function () {
               {caption: '向右对齐', value: 'right'},
             ],
           },
-          'alignCenterType': {
+          'alignCenter': {
             displayName: '居中对齐类型',
             menu: attrMenus('只有对齐属性为居中时才有效,默认两端留空'),
             asker: Xonomy.askPicklist,
@@ -273,7 +273,7 @@ window.docSpec = (function () {
               addAttr('悬浮提示引用', 'hoverRef', ''),
               addAttr('所属子菜单', 'sub', ''),
               addAttr('对齐方式', 'align', 'left'),
-              addAttr('居中对齐类型', 'alignCenterType', 'spaceBoth'),
+              addAttr('居中对齐类型', 'alignCenter', 'spaceBoth'),
               addAttr('行分隔', 'separate', 'false'),
             ]
           },
