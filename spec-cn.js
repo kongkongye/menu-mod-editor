@@ -267,7 +267,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -311,7 +311,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -347,7 +347,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -370,7 +370,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -408,7 +408,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -473,7 +473,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -523,7 +523,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -568,7 +568,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -614,7 +614,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
@@ -663,7 +663,7 @@ window.docSpec = (function () {
           {
             caption: '添加属性',
             menu: [
-              addAttr('条件端', 'conditionSide', 'server'),
+              addAttr('条件端', 'conditionSide', 'local'),
               addAttr('条件', 'condition', ''),
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
