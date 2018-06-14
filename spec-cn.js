@@ -238,7 +238,7 @@ window.docSpec = (function () {
           },
           'align': {
             displayName: '对齐方式',
-            menu: attrMenus('默认向左对齐'),
+            menu: attrMenus('默认居中对齐'),
             asker: Xonomy.askPicklist,
             askerParameter: [
               {caption: '向左对齐', value: 'left'},
@@ -272,7 +272,7 @@ window.docSpec = (function () {
               addAttr('悬浮提示', 'hover', ''),
               addAttr('悬浮提示引用', 'hoverRef', ''),
               addAttr('所属子菜单', 'sub', ''),
-              addAttr('对齐方式', 'align', 'left'),
+              addAttr('对齐方式', 'align', 'center'),
               addAttr('居中对齐类型', 'alignCenter', 'spaceBoth'),
               addAttr('行分隔', 'separate', 'false'),
             ]
