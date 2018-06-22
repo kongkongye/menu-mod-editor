@@ -457,6 +457,7 @@ window.docSpec = (function () {
             menu: attrMenus("执行按钮后的动作,默认无操作"),
             asker: Xonomy.askPicklist,
             askerParameter: [
+              {caption: '关闭菜单', value: 'close'},
               {caption: '退出菜单', value: 'exit'},
               {caption: '返回菜单', value: 'back'},
               {caption: '无操作', value: 'stay'},
