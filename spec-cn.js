@@ -607,7 +607,7 @@ window.docSpec = (function () {
           },
           'param': {
             displayName: '变量',
-            menu: attrMenus("格式'物品处理器名[:物品处理器数据]'(可以包含命令变量,只会在开始的时候解析一次)"),
+            menu: attrMenus("格式'物品处理器名[:物品处理器数据]'(物品处理器数据可以包含变量)"),
             asker: Xonomy.askString,
           },
         },
